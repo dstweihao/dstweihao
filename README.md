@@ -21,8 +21,8 @@
 ``` -->
  
  ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=dstweihao)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dstweihao)
+![dstweihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=dstweihao&theme=vue&show_icons=true)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dstweihao&theme=vue&hide=ipynb,html&layout=compact)
 
  
  
