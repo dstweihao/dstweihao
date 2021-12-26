@@ -22,7 +22,7 @@
  
  ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=dstweihao)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZhui&hide=ipynb,html&layout=compact)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dstweihao&hide=ipynb,html&layout=compact)
 
  
  
