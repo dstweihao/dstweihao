@@ -21,8 +21,8 @@
 ``` -->
  
  ## Statistics
-![dstweihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=dstweihao&theme=vue&show_icons=true)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dstweihao&theme=vue&hide=ipynb,html&layout=compact)
+![dstweihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=dstweihao&theme=graywhite&show_icons=true)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dstweihao&theme=graywhite&hide=ipynb,html&layout=compact)
 
  
  
